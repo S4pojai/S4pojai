@@ -31,7 +31,7 @@
 |---|---|---|
 | **SPP Payment Monitoring System** | Web app to record and monitor school tuition (SPP) payments, with automatic WhatsApp reminders to parents | Laravel, MySQL, WhatsApp API |
 | [**UAS Cyberpreneurship**](https://github.com/S4pojai/uas-cyberpreneurship) | Website for an MSME (UMKM) business | HTML, CSS, Bootstrap |
-| **Personal Portfolio** | My personal portfolio website *(coming soon)* | HTML, CSS, JavaScript |
+| [**Personal Portfolio**](https://s4pojai.github.io) | My personal portfolio website | HTML, CSS, JavaScript |
 
 ---
 
